@@ -1,8 +1,8 @@
 <?php
 
 /*
-    Generate csv for blastika (added salut, split loan number, payment due date str)
-    on php 7.0
+    Change format CSV (added salut, split loan number, payment due date str)
+    on php 
     Jeje - 2022
     
     ** Format Header rawCSV
